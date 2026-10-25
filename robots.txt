@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://piptv.github.io/os/sitemap.xml
